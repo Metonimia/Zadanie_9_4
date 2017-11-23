@@ -23,6 +23,7 @@
 
 drawTree(5);*/
 
+
 function drawTree(treeHeight) {
 
 
@@ -41,6 +42,6 @@ drawTree(1);
 drawTree(2);
 drawTree(5);
 
-
+// Bardzo się starałam coś wykombinować z tymi spacjami, ale bezowocnie do tej pory. Postaram się do tego wrócić albo może możemy omówić to w poniedziałek?
 
 
